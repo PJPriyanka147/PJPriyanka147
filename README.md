@@ -3,7 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,15 +14,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Priyanka Jatav</h1>
-<h3 align="center">A Software developer from India</h3>
+<h3 align="center">A Software Engineer Passionate about Coding and Solving problems, based in India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pjpriyanka147&label=Profile%20views&color=0e75b6&style=flat" alt="pjpriyanka147" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 *I’m currently learning **Data Structures and Algorithms** through the '100 Days of DSA' challenge.*
+- 👯 *I’m interested in contributing to **Open Source Projects** related to Python development, data structures, or web development.*
 
-- 💬 Ask me about **Python and SQL**
+- 💬*Feel free to reach out if you have questions about **Python programming**, SQL queries, or related technologies.*
 
-- 📫 How to reach me **priyankajatav07@gmail.com**
+- 📫*You can reach out to me at **priyankajatav07@gmail.com.***
+- ⚡*I love exploring new places whenever I can !!*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
