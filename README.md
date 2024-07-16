@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   
 - 🌱 *I’m currently learning **Data Structures** and **Algorithms** to strengthen my problem-solving skills.*
  
-- 👯 *I’m interested in contributing to **Open Source Projects** related to **Python Development**, **Data Structures**, or **Web Development.***
+- 👯 *I’m interested in contributing to **Open Source Projects***.
 
 - 📫*You can reach out to me at **priyankajatav07@gmail.com.***
   
