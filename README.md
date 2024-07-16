@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-
+<h3 align="left">A Software Engineer Passionate about Coding and Solving problems, based in India.</h3>
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Priyanka Jatav</h1>
-<h3 align="center">A Software Engineer Passionate about Coding and Solving problems, based in India.</h3>
+<h1 align="left">Hi 👋, I'm Priyanka Jatav</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pjpriyanka147&label=Profile%20views&color=0e75b6&style=flat" alt="pjpriyanka147" /> </p>
 
-- 🔍 *With a strong passion for coding, I enjoy diving into new technologies and continuously improving my skills.*
+- 💻 *A Software Engineer Passionate about Coding, Problem-Solving and exploring new technologies while continuously enhancing my skills.*
   
 - 🌱 *I’m currently learning **Data Structures** and **Algorithms** to strengthen my problem-solving skills.*
  
@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 
 - 📫*You can reach out to me at **priyankajatav07@gmail.com.***
   
-- ⚡*Besides coding, I have a passion for exploring new places whenever I can! 🌍✈️🏞️*
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/priyanka-jatav-058895202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanka jatav" height="30" width="40" /></a>
