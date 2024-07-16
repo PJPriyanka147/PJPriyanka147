@@ -18,13 +18,15 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pjpriyanka147&label=Profile%20views&color=0e75b6&style=flat" alt="pjpriyanka147" /> </p>
 
-- 🌱 *I’m currently learning **Data Structures and Algorithms** through the '100 Days of DSA' challenge.*
-- 👯 *I’m interested in contributing to **Open Source Projects** related to Python development, data structures, or web development.*
+- 🔭 *I'm currently channeling my creativity and technical skills into mastering new technologies and enhancing problem-solving skills.*
 
-- 💬*Feel free to reach out if you have questions about **Python programming**, SQL queries, or related technologies.*
+- 🌱 *I’m currently learning **Data Structures** and **Algorithms** to strengthen my problem-solving skills.*
+ 
+- 👯 *I’m interested in contributing to **Open Source Projects** related to **Python Development**, **Data Structures**, or **Web Development.***
 
 - 📫*You can reach out to me at **priyankajatav07@gmail.com.***
-- ⚡*I love exploring new places whenever I can !!*
+  
+- ⚡*Besides coding, I have a passion for exploring new places whenever I can! 🌍✈️🏞️*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
