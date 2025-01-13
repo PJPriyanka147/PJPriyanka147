@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pjpriyanka147&label=Profile%20views&color=0e75b6&style=flat" alt="pjpriyanka147" /> </p>
 
-- 💻 *An Aspiring Data Engineer focused on developing expertise in data pipelines, integration, and cloud technologies.*
+- 💻 *An Aspiring **Data Engineer** focused on developing expertise in **data pipelines**, **data integration**, and **cloud technologies.***
   
 - 🌱 *I am currently gaining hands-on experience with **ETL tools**, **SQL optimization**, and exploring exploring **AWS** for cloud solutions.*
  
@@ -33,18 +33,14 @@ Here are some ideas to get you started:
 </p>
 
 
-## Skills
+## ✨ Technical Skills
 
-- **Data Engineering Tools:**
-  - AWS, Redshift
+- **🔧 Data Engineering:** AWS
+- **💻 Programming Languages:** Python and  SQL.
+- **🗄️ Databases:** MySQL and PostgreSQL.
+- **🌐 Version Control & Collaboration:** Git/GitHub.
+  
 
-- **Programming Languages:**
-  - Python and SQL
-- **Databases:**
-  - MySQL and PostgreSQL
-
-- **Version Control:**
-  - Git, GitHub.
 
 
 
