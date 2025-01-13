@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pjpriyanka147&label=Profile%20views&color=0e75b6&style=flat" alt="pjpriyanka147" /> </p>
 
-- 💻 *A Software Engineer Passionate about Coding, Problem-Solving and exploring new technologies while continuously enhancing my skills.*
+- 💻 *Aspiring Data Engineer building expertise in data pipelines, data integration, and cloud technologies*
   
-- 🌱 *I’m currently learning **Data Structures** and **Algorithms** to strengthen my problem-solving skills.*
+- 🌱 *Currently gaining hands-on experience with **ETL tools**, **SQL optimization**, and exploring cloud platforms like AWS*
  
-- 👯 *I’m interested in contributing to **Open Source Projects***.
+- 👯 *Looking for opportunities to collaborate on data-focused projects that enhance my technical skills.*
 
 - 📫*You can reach out to me at **priyankajatav07@gmail.com.***
   
