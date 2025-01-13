@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 </p>
 
 
-## ✨ Technical Skills
+## ✨ Tools and Technologies I have worked on.,
 
-- **🔧 Data Engineering:** AWS
+- **🔧 Data Engineering:** AWS S3, Amazon Redshift, AWS Athena.
 - **💻 Programming Languages:** Python and  SQL.
 - **🗄️ Databases:** MySQL and PostgreSQL.
 - **🌐 Version Control & Collaboration:** Git/GitHub.
