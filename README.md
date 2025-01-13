@@ -32,30 +32,23 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/priyankajatav._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyankajatav._" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Data Engineering Tools:</h3>
-<p align="left">
-  AWS | Apache Hadoop | Apache Spark | Apache Kafka | Apache Airflow | DBT | Airbyte | Snowflake | Google BigQuery | Redshift
-</p>
 
-<h3 align="left">Programming Languages:</h3>
-<p align="left">
-  Python | SQL | Java | Scala
-</p>
+## Skills
 
-<h3 align="left">Data Storage & Databases:</h3>
-<p align="left">
-  MySQL | PostgreSQL | MongoDB | Cassandra | Redis
-</p>
+- **Data Engineering Tools:**
+  - AWS, Redshift
 
-<h3 align="left">Version Control & Collaboration:</h3>
-<p align="left">
-  Git | GitHub | GitLab | Bitbucket
-</p>
+- **Programming Languages:**
+  - Python and SQL
+- **Databases:**
+  - MySQL and PostgreSQL
 
-<h3 align="left">Other Tools:</h3>
-<p align="left">
-  Docker | Kubernetes | Terraform | Jenkins | Jupyter Notebooks
-</p>
+- **Version Control:**
+  - Git, GitHub.
+
+
+
+
 
 
 
