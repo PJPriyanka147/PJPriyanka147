@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 💻 *An Aspiring **Data Engineer** focused on developing expertise in **data pipelines**, **data integration**, and **cloud technologies.***
   
-- 🌱 *I am currently gaining hands-on experience with **ETL tools**, **SQL optimization**, and exploring exploring **AWS** for cloud solutions.*
+- 🌱 *I am currently gaining hands-on experience with **ETL tools**, **SQL optimization**, and exploring **AWS** for cloud solutions.*
  
 - 👯 *I am looking for opportunities to collaborate on data-focused projects that enhance my technical skills.*
 
@@ -33,14 +33,15 @@ Here are some ideas to get you started:
 </p>
 
 
+<!--
 ## ✨ Tools and Technologies I have worked on.,
 
 - **🔧 Data Engineering:** AWS S3, Amazon Redshift, AWS Athena.
 - **💻 Programming Languages:** Python and  SQL.
 - **🗄️ Databases:** MySQL and PostgreSQL.
-- **🌐 Version Control & Collaboration:** Git/GitHub.
+- **🌐 Version Control:** Git/GitHub.
   
-
+-->
 
 
 
